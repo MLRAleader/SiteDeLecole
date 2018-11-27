@@ -1,0 +1,70 @@
+body{
+	background-image: linear-gradient(to left,blue,white);
+}
+ul{
+	background-color:#151B6B;
+	list-style-type: none;
+	overflow: hidden;
+	margin: -8px;
+}
+
+li{
+	float:right;
+	margin: 20px;
+}
+a{
+	text-decoration-style: none;
+	color: white;
+	margin-right: -15px;
+}
+a :hover{
+	background-color:#0250f6;
+	color: white;
+}
+.btn{
+	width:150px;
+	height:30px;
+	border-style: none;
+	border-radius:5px;
+	background-color: white;
+}
+.ecole{
+	position: absolute;
+	top:-60px;
+}
+/*Image du Leader*/
+#leader{
+	position: absolute;
+	top: 11%;
+	margin-left:-9px;
+	width:55%;
+	height:60%;
+}
+/*Section mot du fondateur*/
+.section 
+{
+	margin-left:855px;
+	position: absolute;
+	top:70px;
+	width:500px;
+	height:385px;
+	overflow:scroll;
+}
+.div1{
+	font-family: arial;
+	font-size: 20px;
+	text-indent: 30px;
+	text-align:justify;
+	color: white;
+}
+.div2{
+	font-family: arial;
+	font-size: 20px;
+	text-indent: 30px;
+	text-align:justify;
+	color: white;
+}
+h1{
+	float: right;
+	margin-right:189px;
+}
